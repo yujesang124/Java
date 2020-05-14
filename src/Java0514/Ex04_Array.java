@@ -78,9 +78,10 @@ public class Ex04_Array {
 				System.out.println("numbers[" + i +"] : " + numbers);
 				sum += numbers[i];
 			}
-			double avg = sum / numbers.length;
+			double avg = (double)sum / numbers.length;
 			System.out.println("numbers[] 총점 : " + sum);
 			System.out.println("numbers[] 평균 : " + avg);
+			// 이번엔 잘보세요!!!
 		}
 		
 	}

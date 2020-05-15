@@ -38,7 +38,7 @@ public class Ex04_Array {
 		System.out.println("첫번째 집 : " + num3[0]);
 		System.out.println("두번째 집 : " + num3[1);
 		System.out.println("세번째 집 : " + num3[2]);
-		System.out.println("sp번째 집 : " + num3[3]);
+		System.out.println("네번째 집 : " + num3[3]);
 		// 변수 선언 초기화
 		// int j = 0;
 		

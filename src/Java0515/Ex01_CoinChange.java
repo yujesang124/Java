@@ -20,9 +20,6 @@ public class Ex01_CoinChange {
 		
 		int money;
 		
-		
-		
-		
 		Scanner sc = new Scanner(System.in);
 		System.out.print("입력할 금액 : ");
 		int[] coin = {500, 100, 50, 10};
@@ -32,13 +29,8 @@ public class Ex01_CoinChange {
 			System.out.println(coin[i] + "원은 " + cCount + "개");
 			 // 2680 - 2500(500x5)
 			money -= coin[i] *  cCount;
-			System.out.println("남은금액 : " + money);
-		
+			System.out.println("남은금액 : " + money);	
 		}
-		
-		
-		
-		
 	}
 
 }

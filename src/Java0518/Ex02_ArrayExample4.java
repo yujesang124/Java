@@ -16,7 +16,7 @@ public class Ex02_ArrayExample4 {
 		for(int i=0; i<multi.length; i++) {
 			for(int j = 0; j<multi.length; j++) {
 				
-				multi[i][j] = (j+2)*(i+1);
+				multi[i][j] = (i+1)*(j+2);
 				System.out.print(j+2 + "x" + (i+1) + "=" + multi[i][j] + "\t");
 			}
 			System.out.println();

@@ -59,7 +59,7 @@ public class Ex01_ArrayExample3 {
 			
 		}
 		
-		System.out.println("총" + num1 + "개를 맞췄습니다.!");
+		System.out.println("총" + num1.length + "개를 맞췄습니다.!");
 		
 		
 		

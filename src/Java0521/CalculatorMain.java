@@ -1,14 +1,15 @@
 package Java0521;
 
+import Java0521.Calculator;
+
 public class CalculatorMain {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
-		//객체 생성
-		Calculator sc = new Calculator();
-		sc.excute();
-		
+		// 객체생성
+		Calculator cal = new Calculator();
+		cal.excute(10, 5);
+
 	}
 
 }

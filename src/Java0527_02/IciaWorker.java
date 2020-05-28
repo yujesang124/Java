@@ -1,4 +1,4 @@
-package Java0527;
+package Java0527_02;
 
 public class IciaWorker extends IciaPerson{
 	String department;

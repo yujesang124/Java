@@ -1,4 +1,4 @@
-package Java0527;
+package Java0527_03;
 
 public class OverridingParent {
 	String company;

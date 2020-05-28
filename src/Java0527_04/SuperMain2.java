@@ -1,4 +1,4 @@
-package Java0527;
+package Java0527_04;
 
 public class SuperMain2 {
 

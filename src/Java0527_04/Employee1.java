@@ -1,4 +1,4 @@
-package Java0527;
+package Java0527_04;
 
 public class Employee1 {
 	String name; // 이름

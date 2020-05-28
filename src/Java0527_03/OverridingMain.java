@@ -1,4 +1,4 @@
-package Java0527;
+package Java0527_03;
 
 public class OverridingMain {
 	//오버라이딩 상속받은 후 재정의 된 값이 나오는 것  

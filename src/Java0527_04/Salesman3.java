@@ -1,4 +1,4 @@
-package Java0527;
+package Java0527_04;
 
 public class Salesman3 extends Employee3{
 	String name = "홍길동 친구";

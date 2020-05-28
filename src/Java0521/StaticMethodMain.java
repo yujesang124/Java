@@ -1,6 +1,6 @@
 package Java0521;
 
-import Java0521.StaticMethod;
+
 
 public class StaticMethodMain {
 
@@ -16,7 +16,7 @@ public class StaticMethodMain {
 		
 //		StaticMethod.staticVar = 0;
 //		StaticMethod.staticMethod1();
-//		
+		
 		// staticMethod2();
 		
 		
